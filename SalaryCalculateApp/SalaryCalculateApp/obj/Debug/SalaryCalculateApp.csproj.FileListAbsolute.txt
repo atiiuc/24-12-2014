@@ -1,0 +1,9 @@
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\bin\Debug\SalaryCalculateApp.exe.config
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\bin\Debug\SalaryCalculateApp.exe
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\bin\Debug\SalaryCalculateApp.pdb
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.csprojResolveAssemblyReference.cache
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.Form1.resources
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.Properties.Resources.resources
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.csproj.GenerateResource.Cache
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.exe
+E:\22-12-2014\SalaryCalculateApp\SalaryCalculateApp\obj\Debug\SalaryCalculateApp.pdb
